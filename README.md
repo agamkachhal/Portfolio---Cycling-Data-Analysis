@@ -9,5 +9,5 @@ There are quite a large number of variables in ![#c5f015](https://placehold.it/1
 3. Plotting scatter plots and box plots to understand the spread and distribution of data for certain categories (Also, it gives us an understanding that whether there are any outliers in the data or not.
 4. There is also an analysis on as to what factors contribute to more Kudos/Likes👍
 
-Note: For further detailed analysis on this portfolio, please refer to the `Portfolio.ipynb file`.
+Note: For further detailed analysis on this portfolio, please refer to the `Portfolio 1.ipynb file`.
 
